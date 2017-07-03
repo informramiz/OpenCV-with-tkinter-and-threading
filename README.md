@@ -4,7 +4,7 @@ A Python application that detects face from live webcam video. It has a GUI code
 
 If you more curios about how it runs in real time then this video might help.
 
-![screenshot](animation.gif)
+![screenshot](visualization/animation.gif)
 
 ## Motivation
 My motivation for coding this project was that I was curios to learn and try them. 
