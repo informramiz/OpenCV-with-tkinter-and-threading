@@ -62,8 +62,6 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/informramiz](https://github.com/informramiz)
 
-informramiz/OpenCV-with-tkinter-and-threading
-
 ## Contributing
 
 1. Fork it (<https://github.com/informramiz/OpenCV-with-tkinter-and-threading/fork>)
